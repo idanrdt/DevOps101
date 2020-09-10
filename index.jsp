@@ -9,7 +9,7 @@ pageEncoding="ISO-8859-1"%>
 	<body>
 	<p>Insert your name:</p>
 	
-		<form action="guru.jsp">
+		<form action="result.jsp">
 			<input type="text" name="username">
 			<input type="submit" value="submit">
 		</form>
