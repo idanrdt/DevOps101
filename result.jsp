@@ -1,9 +1,12 @@
 <html>
 	<body>
+	<div>
+	<p>
 	<% String username = request.getParameter("username");
 		out.println("Hello " + username + "!");
 	%>
-	<br>
+	</p>
+	</div>
 	<a href="./index.jsp">Back</a>
 	
 	</body>
